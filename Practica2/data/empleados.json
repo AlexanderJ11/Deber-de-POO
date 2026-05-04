@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jordi",
+    "cedula": "0956310650",
+    "sueldo": 12222.0,
+    "valor_hora": 50.92
+  },
+  {
+    "id": 2,
+    "nombre": "wilmer",
+    "cedula": "0938754371",
+    "sueldo": 2333.0,
+    "valor_hora": 9.72
+  }
+]

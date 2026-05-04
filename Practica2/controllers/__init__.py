@@ -1,0 +1,4 @@
+from .empleado_controller import EmpleadoController
+from .tipo_permiso_controller import TipoPermisoController
+from .permiso_controller import PermisoController
+from .estadisticas_controller import EstadisticasController
