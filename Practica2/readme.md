@@ -1,7 +1,7 @@
-IA UTILIZADA FUE CLAUDE PRO 
+# ** IA UTILIZADA FUE CLAUDE PRO ** 
 
-Sesión N.º 1 – Resolución asistida mediante inteligencia artificial
-Enlace: https://claude.ai/share/297b80bf-30c9-47ab-97cf-af134e9d7e01
+## Sesión N.º 1 – Resolución asistida mediante inteligencia artificial
+### Enlace: https://claude.ai/share/297b80bf-30c9-47ab-97cf-af134e9d7e01
 En la primera sesión se utilizó la inteligencia artificial Claude como herramienta de apoyo para el análisis y resolución de un ejercicio de programación en Python, basado en un documento previamente proporcionado.
 
 El prompt empleado consistió en solicitar la interpretación del archivo y el desarrollo completo de la solución conforme a los requerimientos establecidos. La IA realizó un análisis integral del problema y generó un sistema funcional que incorporaba los siguientes aspectos técnicos:
@@ -16,8 +16,8 @@ Desarrollo de una interfaz de usuario en consola
 
 Adicionalmente, la IA ejecutó pruebas de funcionamiento, verificó la correcta ejecución del sistema y entregó el código completamente funcional, acompañado de un resumen técnico de la implementación.
 
-Sesión N.º 2 – Reestructuración y modularización del sistema
-Enlace: https://claude.ai/share/297b80bf-30c9-47ab-97cf-af134e9d7e01
+## Sesión N.º 2 – Reestructuración y modularización del sistema
+### Enlace: https://claude.ai/share/297b80bf-30c9-47ab-97cf-af134e9d7e01
 
 En la segunda sesión se solicitó la reorganización del sistema desarrollado, con el objetivo de aplicar una arquitectura modular basada en separación de responsabilidades.
 
@@ -33,8 +33,8 @@ La IA generó automáticamente la estructura completa del proyecto, incluyendo m
 
 Asimismo, realizó verificaciones de integridad del sistema, asegurando que las importaciones entre módulos fueran correctas y que la aplicación pudiera ejecutarse sin errores desde el archivo principal (main.py). Finalmente, se estableció el entorno de trabajo local para continuar con el desarrollo y ajustes en Visual Studio.
 
-Sesión N.º 3 – Generación de caso práctico para aprendizaje autónomo
-Enlace: https://claude.ai/share/297b80bf-30c9-47ab-97cf-af134e9d7e01
+## Sesión N.º 3 – Generación de caso práctico para aprendizaje autónomo
+### Enlace: https://claude.ai/share/297b80bf-30c9-47ab-97cf-af134e9d7e01
 
 En la tercera sesión se empleó la IA con fines de aprendizaje, solicitando la generación de un sistema similar que permitiera reforzar los conocimientos adquiridos.
 
